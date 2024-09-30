@@ -58,6 +58,9 @@ Before you begin, ensure you have the following installed:
 # Usage
 After starting the servers, open http://localhost:3000 in your browser to view the application.
 
+## Author
+
+- **Vaishavi Vijayakandan** - *Author* - [VaishaviV](https://github.com/vaishavi)
 
 
 
